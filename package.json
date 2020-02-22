@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/elee0888/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/elee0888/Employee-Tracker#readme"
+  "homepage": "https://github.com/elee0888/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1",
+    "save": "^2.4.0"
+  }
 }
